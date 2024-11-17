@@ -42,6 +42,11 @@
 #define VAR_OBJ_GFX_ID_E                    0x401E
 #define VAR_OBJ_GFX_ID_F                    0x401F
 
+// EXPERIMENtAL
+#define STARTER_BALL1 SPECIES_ABRA
+#define STARTER_BALL2 SPECIES_WEEDLE
+#define STARTER_BALL3 SPECIES_JYNX
+
 // If nonzero, counts down by one every step.
 // When it hits zero, repel's effect wears off.
 #define VAR_REPEL_STEP_COUNT                0x4020
