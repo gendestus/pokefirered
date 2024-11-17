@@ -8,6 +8,7 @@ PewterCity_MapScripts::
 
 PewterCity_OnTransition::
 	setworldmapflag FLAG_WORLD_MAP_PEWTER_CITY
+	setvar VAR_MAP_SCENE_PEWTER_CITY, 2
 	setvar VAR_MAP_SCENE_PEWTER_CITY_MUSEUM_1F, 0
 	end
 
@@ -659,29 +660,39 @@ PewterCity_EventScript_RunningShoesAide::
 	lock
 	faceplayer
 	setvar VAR_TEMP_1, 0
-	call PewterCity_EventScript_AideGiveRunningShoes
+	call PewterCity_EventScript_YellowFluteAide
 	release
 	end
 
 PewterCity_EventScript_RunningShoesAideTriggerTop::
 	lockall
 	setvar VAR_TEMP_1, 1
-	call PewterCity_EventScript_AideGiveRunningShoes
+	call PewterCity_EventScript_YellowFluteAide
 	releaseall
 	end
 
 PewterCity_EventScript_RunningShoesAideTriggerMid::
 	lockall
 	setvar VAR_TEMP_1, 2
-	call PewterCity_EventScript_AideGiveRunningShoes
+	call PewterCity_EventScript_YellowFluteAide
 	releaseall
 	end
 
 PewterCity_EventScript_RunningShoesAideTriggerBottom::
 	lockall
 	setvar VAR_TEMP_1, 3
-	call PewterCity_EventScript_AideGiveRunningShoes
+	call PewterCity_EventScript_YellowFluteAide
 	releaseall
+	end
+
+PewterCity_EventScript_YellowFluteAide::
+	lock
+	msgbox Text_YellowFluteAide
+	additem ITEM_YELLOW_FLUTE
+	playfanfare MUS_OBTAIN_KEY_ITEM
+	msgbox Text_YellowFluteReceived
+	waitfanfare
+	release
 	end
 
 PewterCity_EventScript_AideGiveRunningShoes::

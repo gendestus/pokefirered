@@ -5,6 +5,9 @@ This is my custom ruleset for FireRed. For the most part, it's a bunch of small 
 Features
 - Adds a starter pokeball variable to easily change Oak's Lab
 - Allows you to skip that awful old man tutorial
+- All wild pokemon are firt forms (except babies)
+    - (This is an aesthetic choice. It never made sense as a kid that there were evolved pokemon in the wild at all)
+    - To compensate, evolved battle xp (from trainers) is increased
 
 ## Below is the original README
 

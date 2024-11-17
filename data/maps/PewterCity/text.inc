@@ -1,3 +1,13 @@
+Text_YellowFluteAide::
+    .string "Hey!\p"
+    .string "I disagree with the Professor.\p"
+    .string "I don't think kids should be\n"
+    .string "doing his field work for him.\p"
+    .string "Take this and stay safe!$"
+
+Text_YellowFluteReceived::
+    .string "{PLAYER} received a Yellow Flute!$"
+
 Text_DreamEaterTeach::
     .string "Yawn!\n"
     .string "I must have dozed off in the sun.\p"
