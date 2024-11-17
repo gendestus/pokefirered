@@ -692,6 +692,13 @@ PewterCity_EventScript_YellowFluteAide::
 	playfanfare MUS_OBTAIN_KEY_ITEM
 	msgbox Text_YellowFluteReceived
 	waitfanfare
+	call_if_eq VAR_TEMP_1, 0, PewterCity_EventScript_AideExit0
+	call_if_eq VAR_TEMP_1, 1, PewterCity_EventScript_AideExit1
+	call_if_eq VAR_TEMP_1, 2, PewterCity_EventScript_AideExit2
+	call_if_eq VAR_TEMP_1, 3, PewterCity_EventScript_AideExit3
+	delay 30
+	removeobject LOCALID_AIDE
+	setvar VAR_MAP_SCENE_PEWTER_CITY, 2
 	release
 	end
 
