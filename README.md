@@ -1,4 +1,8 @@
-# Pokémon FireRed and LeafGreen
+# Ultimate Pokemon
+
+This is my custom ruleset for FireRed. For the most part, it's a bunch of small world tweaks and some hooks for AI.
+
+## Below is the original README
 
 This is a decompilation of English Pokémon FireRed and LeafGreen.
 
