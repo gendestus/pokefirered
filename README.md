@@ -2,6 +2,9 @@
 
 This is my custom ruleset for FireRed. For the most part, it's a bunch of small world tweaks and some hooks for AI.
 
+Features
+- Adds a starter pokeball variable to easily change Oak's Lab
+
 ## Below is the original README
 
 This is a decompilation of English Pokémon FireRed and LeafGreen.
