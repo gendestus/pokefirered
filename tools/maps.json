@@ -1,0 +1,1469 @@
+{
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS_MONEAN_CHAMBER": {
+        "environ": [
+            "unown_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS_LIPTOO_CHAMBER": {
+        "environ": [
+            "unown_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS_WEEPTH_CHAMBER": {
+        "environ": [
+            "unown_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER": {
+        "environ": [
+            "unown_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS_SCUFIB_CHAMBER": {
+        "environ": [
+            "unown_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS_RIXY_CHAMBER": {
+        "environ": [
+            "unown_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS_VIAPOIS_CHAMBER": {
+        "environ": [
+            "unown_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_VIRIDIAN_FOREST": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "MAP_MT_MOON_1F": {
+        "environ": [
+            "moon_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "north"
+        ]
+    },
+    "MAP_MT_MOON_B1F": {
+        "environ": [
+            "moon_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "north"
+        ]
+    },
+    "MAP_MT_MOON_B2F": {
+        "environ": [
+            "moon_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "north"
+        ]
+    },
+    "MAP_SSANNE_EXTERIOR": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_DIGLETTS_CAVE_B1F": {
+        "environ": [
+            "diglett_cave",
+            "cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_VICTORY_ROAD_1F": {
+        "environ": [
+            "epic_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "MAP_VICTORY_ROAD_2F": {
+        "environ": [
+            "epic_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "MAP_VICTORY_ROAD_3F": {
+        "environ": [
+            "epic_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "MAP_POKEMON_MANSION_1F": {
+        "environ": [
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_POKEMON_MANSION_2F": {
+        "environ": [
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_POKEMON_MANSION_3F": {
+        "environ": [
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_POKEMON_MANSION_B1F": {
+        "environ": [
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_SAFARI_ZONE_CENTER": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SAFARI_ZONE_EAST": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SAFARI_ZONE_NORTH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SAFARI_ZONE_WEST": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_CERULEAN_CAVE_1F": {
+        "environ": [
+            "epic_cave",
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west",
+            "north"
+        ]
+    },
+    "MAP_CERULEAN_CAVE_2F": {
+        "environ": [
+            "epic_cave",
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west",
+            "north"
+        ]
+    },
+    "MAP_CERULEAN_CAVE_B1F": {
+        "environ": [
+            "epic_cave",
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west",
+            "north"
+        ]
+    },
+    "MAP_ROCK_TUNNEL_1F": {
+        "environ": [
+            "rock_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROCK_TUNNEL_B1F": {
+        "environ": [
+            "rock_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_SEAFOAM_ISLANDS_1F": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_SEAFOAM_ISLANDS_B1F": {
+        "environ": [
+            "ice_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_SEAFOAM_ISLANDS_B2F": {
+        "environ": [
+            "ice_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_SEAFOAM_ISLANDS_B3F": {
+        "environ": [
+            "ice_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_SEAFOAM_ISLANDS_B4F": {
+        "environ": [
+            "ice_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_POKEMON_TOWER_3F": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_POKEMON_TOWER_4F": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_POKEMON_TOWER_5F": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_POKEMON_TOWER_6F": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_POKEMON_TOWER_7F": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_POWER_PLANT": {
+        "environ": [
+            "electric_plant"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_EXTERIOR": {
+        "environ": [
+            "fire_cave",
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_SUMMIT_PATH_1F": {
+        "environ": [
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_SUMMIT_PATH_2F": {
+        "environ": [
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_SUMMIT_PATH_3F": {
+        "environ": [
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_RUBY_PATH_1F": {
+        "environ": [
+            "fire_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_RUBY_PATH_B1F": {
+        "environ": [
+            "fire_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_RUBY_PATH_B2F": {
+        "environ": [
+            "fire_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_RUBY_PATH_B3F": {
+        "environ": [
+            "fire_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_RUBY_PATH_B1F_STAIRS": {
+        "environ": [
+            "fire_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_MT_EMBER_RUBY_PATH_B2F_STAIRS": {
+        "environ": [
+            "fire_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_THREE_ISLAND_BERRY_FOREST": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "river",
+            "ponds"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FOUR_ISLAND_ICEFALL_CAVE_ENTRANCE": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FOUR_ISLAND_ICEFALL_CAVE_1F": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FOUR_ISLAND_ICEFALL_CAVE_B1F": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FOUR_ISLAND_ICEFALL_CAVE_BACK": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_SIX_ISLAND_PATTERN_BUSH": {
+        "environ": [
+            "rural",
+            "grassland"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM1": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM2": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM3": {
+        "environ": [
+            "epic_cave",
+            "ice_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM4": {
+        "environ": [
+            "epic_cave",
+            "cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM5": {
+        "environ": [
+            "epic_cave",
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM6": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM7": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM8": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM9": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM10": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM11": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM12": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM13": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND_LOST_CAVE_ROOM14": {
+        "environ": [
+            "epic_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_ONE_ISLAND_KINDLE_ROAD": {
+        "environ": [
+            "rural",
+            "grassland"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_ONE_ISLAND_TREASURE_BEACH": {
+        "environ": [
+            "seaside",
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_TWO_ISLAND_CAPE_BRINK": {
+        "environ": [
+            "seaside",
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_THREE_ISLAND_BOND_BRIDGE": {
+        "environ": [
+            "seaside",
+            "island",
+            "urban"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_THREE_ISLAND_PORT": {
+        "environ": [
+            "seaside",
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_FIVE_ISLAND_RESORT_GORGEOUS": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_FIVE_ISLAND_WATER_LABYRINTH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_FIVE_ISLAND_MEADOW": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_FIVE_ISLAND_MEMORIAL_PILLAR": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SIX_ISLAND_OUTCAST_ISLAND": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SIX_ISLAND_GREEN_PATH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SIX_ISLAND_WATER_PATH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SIX_ISLAND_RUIN_VALLEY": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TRAINER_TOWER": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_SEVAULT_CANYON_ENTRANCE": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_SEVAULT_CANYON": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_SEVEN_ISLAND_TANOBY_RUINS": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_ROUTE1": {
+        "environ": [
+            "grassland",
+            "rural"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "west",
+            "south"
+        ]
+    },
+    "MAP_ROUTE2": {
+        "environ": [
+            "grassland",
+            "rural"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "west",
+            "north"
+        ]
+    },
+    "MAP_ROUTE3": {
+        "environ": [
+            "urban",
+            "grassland"
+        ],
+        "water": [
+            "ponds",
+            "river"
+        ],
+        "regions": [
+            "north",
+            "west"
+        ]
+    },
+    "MAP_ROUTE4": {
+        "environ": [
+            "urban",
+            "grassland"
+        ],
+        "water": [
+            "river"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROUTE5": {
+        "environ": [
+            "urban",
+            "grassland"
+        ],
+        "water": [
+            "ponds",
+            "river"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROUTE6": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_ROUTE7": {
+        "environ": [
+            "urban"
+        ],
+        "water": [
+            "river"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROUTE8": {
+        "environ": [
+            "grassland",
+            "rural"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROUTE9": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "river"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROUTE10": {
+        "environ": [
+            "grassland",
+            "rural"
+        ],
+        "water": [
+            "river"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROUTE11": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_ROUTE12": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_ROUTE13": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_ROUTE14": {
+        "environ": [
+            "grassland",
+            "urban"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_ROUTE15": {
+        "environ": [
+            "urban"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_ROUTE16": {
+        "environ": [
+            "grassland",
+            "urban"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "north",
+            "west"
+        ]
+    },
+    "MAP_ROUTE17": {
+        "environ": [
+            "seaside",
+            "urban"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_ROUTE18": {
+        "environ": [
+            "urban",
+            "grassland"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_ROUTE19": {
+        "environ": [
+            "urban",
+            "seaside"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_ROUTE20": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "ocean"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_ROUTE21_NORTH": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "ocean"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_ROUTE21_SOUTH": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "ocean"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_ROUTE22": {
+        "environ": [
+            "grassland",
+            "rural"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "MAP_ROUTE23": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "river"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "MAP_ROUTE24": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "river"
+        ],
+        "regions": [
+            "north",
+            "west"
+        ]
+    },
+    "MAP_ROUTE25": {
+        "environ": [
+            "grassland",
+            "rural"
+        ],
+        "water": [
+            "river",
+            "ponds"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_PALLET_TOWN": {
+        "environ": [
+            "seaside",
+            "grassland"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "west",
+            "south"
+        ]
+    },
+    "MAP_VIRIDIAN_CITY": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "north",
+            "west"
+        ]
+    },
+    "MAP_CERULEAN_CITY": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "river"
+        ],
+        "regions": [
+            "north",
+            "east"
+        ]
+    },
+    "MAP_VERMILION_CITY": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_CELADON_CITY": {
+        "environ": [
+            "grassland",
+            "urban"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "MAP_FUCHSIA_CITY": {
+        "environ": [
+            "urban"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "south",
+            "east"
+        ]
+    },
+    "MAP_CINNABAR_ISLAND": {
+        "environ": [
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south",
+            "west"
+        ]
+    },
+    "MAP_ONE_ISLAND": {
+        "environ": [
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FOUR_ISLAND": {
+        "environ": [
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_FIVE_ISLAND": {
+        "environ": [
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "MAP_SIX_ISLAND_ALTERING_CAVE": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "south"
+        ]
+    }
+}

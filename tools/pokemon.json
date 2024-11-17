@@ -1,0 +1,2009 @@
+{
+    "SPECIES_BULBASAUR": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CHARMANDER": {
+        "environ": [
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SQUIRTLE": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "ponds",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CATERPIE": {
+        "environ": [
+            "forest",
+            "grassland",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "SPECIES_WEEDLE": {
+        "environ": [
+            "forest",
+            "grassland",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "SPECIES_PIDGEY": {
+        "environ": [
+            "rural",
+            "grassland",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "SPECIES_RATTATA": {
+        "environ": [
+            "grassland",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SPEAROW": {
+        "environ": [
+            "rural",
+            "grassland",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "SPECIES_EKANS": {
+        "environ": [
+            "rural",
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "SPECIES_PIKACHU": {
+        "environ": [
+            "forest",
+            "electric_plant"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SANDSHREW": {
+        "environ": [
+            "cave",
+            "diglett_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_NIDORAN_F": {
+        "environ": [
+            "grassland",
+            "rural",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_NIDORAN_M": {
+        "environ": [
+            "grassland",
+            "rural",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CLEFAIRY": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_VULPIX": {
+        "environ": [
+            "fire_mansion",
+            "rural",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_JIGGLYPUFF": {
+        "environ": [
+            "cave",
+            "rural",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ZUBAT": {
+        "environ": [
+            "cave",
+            "rock_cave",
+            "diglett_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ODDISH": {
+        "environ": [
+            "rural",
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "SPECIES_PARAS": {
+        "environ": [
+            "cave",
+            "diglett_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_VENONAT": {
+        "environ": [
+            "rural",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_DIGLETT": {
+        "environ": [
+            "diglett_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MEOWTH": {
+        "environ": [
+            "urban",
+            "forest",
+            "seaside",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_PSYDUCK": {
+        "environ": [
+            "ice_cave",
+            "seaside"
+        ],
+        "water": [
+            "river",
+            "coastal",
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MANKEY": {
+        "environ": [
+            "rural",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GROWLITHE": {
+        "environ": [
+            "fire_mansion",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_POLIWAG": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "ponds",
+            "river",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ABRA": {
+        "environ": [
+            "ice_cave",
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MACHOP": {
+        "environ": [
+            "rock_cave",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_BELLSPROUT": {
+        "environ": [
+            "rural",
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "SPECIES_TENTACOOL": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GEODUDE": {
+        "environ": [
+            "rock_cave",
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_PONYTA": {
+        "environ": [
+            "fire_mansion",
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "SPECIES_SLOWPOKE": {
+        "environ": [
+            "ice_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "river",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MAGNEMITE": {
+        "environ": [
+            "electric_plant"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_FARFETCHD": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "SPECIES_DODUO": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "SPECIES_SEEL": {
+        "environ": [
+            "ice_cave",
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GRIMER": {
+        "environ": [
+            "urban",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SHELLDER": {
+        "environ": [
+            "island"
+        ],
+        "water": [
+            "coastal",
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GASTLY": {
+        "environ": [
+            "ghost_tower",
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ONIX": {
+        "environ": [
+            "rock_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_DROWZEE": {
+        "environ": [
+            "ice_cave",
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_KRABBY": {
+        "environ": [
+            "island",
+            "seaside"
+        ],
+        "water": [
+            "ocean",
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_VOLTORB": {
+        "environ": [
+            "electric_plant",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_EXEGGCUTE": {
+        "environ": [
+            "rural",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "SPECIES_CUBONE": {
+        "environ": [
+            "ghost_tower",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_LICKITUNG": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "north"
+        ]
+    },
+    "SPECIES_KOFFING": {
+        "environ": [
+            "urban",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_RHYHORN": {
+        "environ": [
+            "rock_cave",
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CHANSEY": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TANGELA": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_KANGASKHAN": {
+        "environ": [
+            "rock_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_HORSEA": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GOLDEEN": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "river",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_STARYU": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MR_MIME": {
+        "environ": [
+            "epic_cave",
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SCYTHER": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "SPECIES_JYNX": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ELECTABUZZ": {
+        "environ": [
+            "electric_plant"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MAGMAR": {
+        "environ": [
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_PINSIR": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "east"
+        ]
+    },
+    "SPECIES_TAUROS": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "north"
+        ]
+    },
+    "SPECIES_MAGIKARP": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "ponds",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_LAPRAS": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_DITTO": {
+        "environ": [
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_EEVEE": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "west"
+        ]
+    },
+    "SPECIES_PORYGON": {
+        "environ": [
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "SPECIES_DRATINI": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MEW": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CHIKORITA": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "south"
+        ]
+    },
+    "SPECIES_CYNDAQUIL": {
+        "environ": [
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TOTODILE": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "river",
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SENTRET": {
+        "environ": [
+            "forest",
+            "rural" 
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_HOOTHOOT": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_LEDYBA": {
+        "environ": [
+            "rural",
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SPINARAK": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CHINCHOU": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_NATU": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MAREEP": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MARILL": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "ponds",
+            "river"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SUDOWOODO": {
+        "environ": [
+            "rock_cave",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_HOPPIP": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_AIPOM": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SUNKERN": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_YANMA": {
+        "environ": [
+            "grassland",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_WOOPER": {
+        "environ": [
+            "seaside"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MURKROW": {
+        "environ": [
+            "grassland",
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MISDREAVUS": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_WOBBUFFET": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GIRAFARIG": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_PINECO": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_DUNSPARCE": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GLIGAR": {
+        "environ": [
+            "cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SNUBBULL": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_QWILFISH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SHUCKLE": {
+        "environ": [
+            "cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_HERACROSS": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SNEASEL": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TEDDIURSA": {
+        "environ": [
+            "forest",
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SLUGMA": {
+        "environ": [
+            "fire_cave",
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SWINUB": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CORSOLA": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_REMORAID": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_DELIBIRD": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MANTINE": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SKARMORY": {
+        "environ": [
+            "urban",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_HOUNDOUR": {
+        "environ": [
+            "fire_cave",
+            "fire_mansion",
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_PHANPY": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_STANTLER": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SMEARGLE": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TYROGUE": {
+        "environ": [
+            "rock_cave",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MILTANK": {
+        "environ": [
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CELEBI": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TREECKO": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TORCHIC": {
+        "environ": [
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MUDKIP": {
+        "environ": [
+            "island",
+            "seaside"
+        ],
+        "water": [
+            "river",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_POOCHYENA": {
+        "environ": [
+            "rural",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ZIGZAGOON": {
+        "environ": [
+            "rural",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_WURMPLE": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_LOTAD": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SEEDOT": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_NINCADA": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TAILLOW": {
+        "environ": [
+            "grassland",
+            "rural",
+            "urban",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SHROOMISH": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SPINDA": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_WINGULL": {
+        "environ": [
+            "seaside",
+            "island"
+        ],
+        "water": [
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SURSKIT": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ponds"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_WAILMER": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SKITTY": {
+        "environ": [
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_KECLEON": {
+        "environ": [
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_BALTOY": {
+        "environ": [
+            "moon_cave",
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_NOSEPASS": {
+        "environ": [
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TORKOAL": {
+        "environ": [
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SABLEYE": {
+        "environ": [
+            "cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_BARBOACH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "cave",
+            "river"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_LUVDISC": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "ocean",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CORPHISH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_FEEBAS": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CARVANHA": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "river",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TRAPINCH": {
+        "environ": [
+            "rock_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MAKUHITA": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ELECTRIKE": {
+        "environ": [
+            "electric_plant",
+            "rural"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_NUMEL": {
+        "environ": [
+            "fire_mansion"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SPHEAL": {
+        "environ": [
+            "seaside",
+            "island"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CACNEA": {
+        "environ": [
+            "rural",
+            "forest"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SNORUNT": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_LUNATONE": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SOLROCK": {
+        "environ": [
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SPOINK": {
+        "environ": [
+            "rural",
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_PLUSLE": {
+        "environ": [
+            "electric_plant"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MINUN": {
+        "environ": [
+            "electric_plant"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MAWILE": {
+        "environ": [
+            "ice_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_MEDITITE": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SWABLU": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_DUSKULL": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ROSELIA": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SLAKOTH": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_GULPIN": {
+        "environ": [
+            "urban"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_TROPIUS": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_WHISMUR": {
+        "environ": [
+            "rock_cave",
+            "fire_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CLAMPERL": {
+        "environ": [
+            "ice_cave"
+        ],
+        "water": [
+            "cave",
+            "coastal"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ABSOL": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SHUPPET": {
+        "environ": [
+            "ghost_tower"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_SEVIPER": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ZANGOOSE": {
+        "environ": [
+            "grassland"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_RELICANTH": {
+        "environ": [
+            "na"
+        ],
+        "water": [
+            "cave"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ARON": {
+        "environ": [
+            "rock_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_CASTFORM": {
+        "environ": [
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_VOLBEAT": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_ILLUMISE": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_RALTS": {
+        "environ": [
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_BAGON": {
+        "environ": [
+            "rock_cave",
+            "epic_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    },
+    "SPECIES_BELDUM": {
+        "environ": [
+            "epic_cave",
+            "moon_cave"
+        ],
+        "water": [
+            "na"
+        ],
+        "regions": [
+            "all"
+        ]
+    }
+}
