@@ -1,7 +1,7 @@
 {
     "SPECIES_BULBASAUR": {
         "environ": [
-            "forest"
+            "grassland"
         ],
         "water": [
             "na"
@@ -48,7 +48,6 @@
     },
     "SPECIES_WEEDLE": {
         "environ": [
-            "forest",
             "grassland",
             "island"
         ],
@@ -150,8 +149,7 @@
     "SPECIES_NIDORAN_M": {
         "environ": [
             "grassland",
-            "rural",
-            "forest"
+            "rural"
         ],
         "water": [
             "na"
@@ -261,7 +259,6 @@
     "SPECIES_MEOWTH": {
         "environ": [
             "urban",
-            "forest",
             "seaside",
             "island"
         ],
