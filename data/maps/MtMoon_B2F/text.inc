@@ -5,11 +5,10 @@ MtMoon_B2F_Text_MiguelIntro::
 
 MtMoon_B2F_Text_MiguelDefeat::
     .string "Okay!\n"
-    .string "I'll share!$"
+    .string "Don't hurt me!$"
 
 MtMoon_B2F_Text_WellEachTakeAFossil::
-    .string "We'll each take a fossil!\n"
-    .string "No being greedy!$"
+    .string "Take both!\n$"
 
 MtMoon_B2F_Text_ThenThisFossilIsMine::
     .string "All right.\n"
