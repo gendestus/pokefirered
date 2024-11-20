@@ -289,7 +289,7 @@ Drowzee|1
 Hypno|26
 Exeggcute|1
 Exeggutor|25
-Mr. Mime|1
+Mr_Mime|1
 Jynx|1
 Natu|1
 Xatu|25

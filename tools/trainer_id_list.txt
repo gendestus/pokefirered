@@ -132,7 +132,7 @@ Drowzee
 Hypno
 Exeggcute
 Exeggutor
-Mr. Mime
+Mr_Mime
 Jynx
 
 [Fighter]
