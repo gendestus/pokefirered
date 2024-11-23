@@ -30,6 +30,7 @@ Breloom|23
 Roselia|1
 Cacnea|1
 Cacturne|32
+Bellossom|25
 
 [Water]
 Squirtle|1
@@ -53,7 +54,6 @@ Croconaw|18
 Feraligatr|30
 Chinchou|1
 Lanturn|27
-Bellossom|25
 Marill|1
 Azumarill|18
 Slowking|25

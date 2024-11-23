@@ -46,6 +46,7 @@
 #define STARTER_BALL1 SPECIES_BULBASAUR
 #define STARTER_BALL2 SPECIES_SQUIRTLE
 #define STARTER_BALL3 SPECIES_CHARMANDER
+#define VAR_NATIONAL_DEX_GIVEN 0
 
 // If nonzero, counts down by one every step.
 // When it hits zero, repel's effect wears off.

@@ -8,6 +8,12 @@ Features
 - All wild pokemon are firt forms (except babies)
     - (This is an aesthetic choice. It never made sense as a kid that there were evolved pokemon in the wild at all)
     - To compensate, evolved battle xp (from trainers) is increased
+- Talking to Oak's last pokeball unlocks national dex
+- $500 Magikarp replaced with Feebas
+- Redone Trainer lineups to make them more engaging
+- [TODO] Coins from Rocket Members because I hate the gambling game
+- XP from catches
+- IV Check during battle
 
 ## Below is the original README
 
