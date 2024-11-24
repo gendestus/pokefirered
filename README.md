@@ -16,6 +16,7 @@ Features
 - IV Check during battle
 - [TODO] Every poke has a held item
 - Run & Bike everywhere
+- Increased shiny odds to 10%
 
 ## Below is the original README
 

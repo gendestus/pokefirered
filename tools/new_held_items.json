@@ -1,0 +1,1932 @@
+{
+    "SPECIES_BULBASAUR": {
+        "species": "SPECIES_BULBASAUR",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_TM22"
+    },
+    "SPECIES_IVYSAUR": {
+        "species": "SPECIES_IVYSAUR",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_GREEN_SHARD"
+    },
+    "SPECIES_VENUSAUR": {
+        "species": "VENUSAUR",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_CHARMANDER": {
+        "species": "Charmander",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_DRAGON_FANG"
+    },
+    "SPECIES_CHARMELEON": {
+        "species": "CHARMELEON",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_DRAGON_SCALE"
+    },
+    "SPECIES_CHARIZARD": {
+        "species": "Charizard",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_DRAGON_FANG"
+    },
+    "SPECIES_SQUIRTLE": {
+        "species": "Squirtle",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_WARTORTLE": {
+        "species": "SPECIES_WARTORTLE",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_TM03"
+    },
+    "SPECIES_BLASTOISE": {
+        "species": "Blastoise",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_CATERPIE": {
+        "species": "SPECIES_CATERPIE",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_PECHA_BERRY"
+    },
+    "SPECIES_METAPOD": {
+        "species": "SPECIES_METAPOD",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_TINYP_MUSHROOM"
+    },
+    "SPECIES_BUTTERFREE": {
+        "species": "Butterfree",
+        "common": "ITEM_SILVER_POWDER",
+        "rare": "ITEM_NET_BALL"
+    },
+    "SPECIES_WEEDLE": {
+        "species": "SPECIES_WEEDLE",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_KAKUNA": {
+        "species": "SPECIES_KAKUNA",
+        "common": "ITEM_SILK_SCARF",
+        "rare": "ITEM_HARD_STONE"
+    },
+    "SPECIES_BEEDRILL": {
+        "species": "SPECIES_BEEDRILL",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_FOCUS_BAND"
+    },
+    "SPECIES_PIDGEY": {
+        "species": "Pidgey",
+        "common": "ITEM_PECHA_BERRY",
+        "rare": "ITEM_SHARP_BEAK"
+    },
+    "SPECIES_PIDGEOTTO": {
+        "species": "SPECIES_PIDGEOTTO",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_PIDGEOT": {
+        "species": "Pidgeot",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_RATTATA": {
+        "species": "RATTATA",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "SPECIES_RATICATE": {
+        "species": "Raticate",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "SPECIES_SPEAROW": {
+        "species": "SPECIES_SPEAROW",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_FEAROW": {
+        "species": "Fearow",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_EKANS": {
+        "species": "EKANS",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_SNAKELINE_PATCH"
+    },
+    "SPECIES_ARBOK": {
+        "species": "Arbok",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_SNAKE_SCALE"
+    },
+    "SPECIES_PIKACHU": {
+        "species": "Pikachu",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LIGHT_BALL"
+    },
+    "SPECIES_RAICHU": {
+        "species": "Raichu",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_MAGNET"
+    },
+    "SPECIES_SANDSHREW": {
+        "species": "SPECIES_SANDSHREW",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_SITRUS_BERRY"
+    },
+    "SPECIES_SANDSLASH": {
+        "species": "Sandslash",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_HARD_STONE"
+    },
+    "SPECIES_NIDORAN_F": {
+        "species": "SPECIES_NIDORAN_F",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_PEARL"
+    },
+    "SPECIES_NIDORINA": {
+        "species": "SPECIES_NIDORINA",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_MOON_STONE"
+    },
+    "SPECIES_NIDOQUEEN": {
+        "species": "SPECIES_NIDOQUEEN",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_SHELL_BELL"
+    },
+    "SPECIES_NIDORAN_M": {
+        "species": "NIDORAN_M",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_TINY_MUSHROOM"
+    },
+    "SPECIES_NIDORINO": {
+        "species": "NIDORINO",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_NIDOKING": {
+        "species": "SPECIES_NIDOKING",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_CLEFAIRY": {
+        "species": "SPECIES_CLEFAIRY",
+        "common": "ITEM_MOON_STONE",
+        "rare": "ITEM_SHINY_STONE"
+    },
+    "SPECIES_CLEFABLE": {
+        "species": "SPECIES_CLEFABLE",
+        "common": "ITEM_MOON_STONE",
+        "rare": "ITEM_PP_UP"
+    },
+    "SPECIES_VULPIX": {
+        "species": "SPECIES_VULPIX",
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_CHARCOAL"
+    },
+    "SPECIES_NINETALES": {
+        "species": "SPECIES_NINETALES",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FIRE_STONE"
+    },
+    "SPECIES_JIGGLYPUFF": {
+        "species": "SPECIES_JIGGLYPUFF",
+        "common": "ITEM_MOON_STONE",
+        "rare": "ITEM_SOOTHE_BELL"
+    },
+    "SPECIES_WIGGLYTUFF": {
+        "species": "SPECIES_WIGGLYTUFF",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_ZUBAT": {
+        "species": "Zubat",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_GOLBAT": {
+        "species": "SPECIES_GOLBAT",
+        "common": "ITEM_SOOTHE_BELL",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_ODDISH": {
+        "species": "Oddish",
+        "common": "ITEM_BIG_MUSHROOM",
+        "rare": "ITEM_TINY_MUSHROOM"
+    },
+    "SPECIES_GLOOM": {
+        "species": "Gloom",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_VILEPLUME": {
+        "species": "Vileplume",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_PARAS": {
+        "species": "SPECIES_PARAS",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_PARASECT": {
+        "species": "Parasect",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_VENONAT": {
+        "species": "VENONAT",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_VENOMOTH": {
+        "species": "VENOMOTH",
+        "common": "ITEM_SILVER_POWDER",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_DIGLETT": {
+        "species": "Diglett",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_RARE_CANDY"
+    },
+    "SPECIES_DUGTRIO": {
+        "species": "Dugtrio",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_HARD_STONE"
+    },
+    "SPECIES_MEOWTH": {
+        "species": "Meowth",
+        "common": "ITEM_NUGGET",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "SPECIES_PERSIAN": {
+        "species": "Persian",
+        "common": "ITEM_QUICK_CLAW",
+        "rare": "ITEM_SILK_SCARF"
+    },
+    "SPECIES_PSYDUCK": {
+        "species": "Psyduck",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_YELLOW_FLUTE"
+    },
+    "SPECIES_GOLDUCK": {
+        "species": "GOLDUCK",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_MANKEY": {
+        "species": "SPECIES_MANKEY",
+        "common": "ITEM_FRESH_WATER",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_PRIMEAPE": {
+        "species": "PRIMEAPE",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_CHOICE_BAND"
+    },
+    "SPECIES_GROWLITHE": {
+        "species": "SPECIES_GROWLITHE",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FLAME_ORB"
+    },
+    "SPECIES_ARCANINE": {
+        "species": "SPECIES_ARCANINE",
+        "common": "ITEM_FIRE_STONE",
+        "rare": "ITEM_CHARCOAL"
+    },
+    "SPECIES_POLIWAG": {
+        "species": "Poliwag",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_POLIWHIRL": {
+        "species": "POLIWHIRL",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_POLIWRATH": {
+        "species": "POLIWRATH",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_ABRA": {
+        "species": "Abra",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_MENTAL_HERB"
+    },
+    "SPECIES_KADABRA": {
+        "species": "Kadabra",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_ALAKAZAM": {
+        "species": "Alakazam",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_MACHOP": {
+        "species": "MACHOP",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_FLUFFY_TAIL"
+    },
+    "SPECIES_MACHOKE": {
+        "species": "Machoke",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_PROTEIN"
+    },
+    "SPECIES_MACHAMP": {
+        "species": "SPECIES_MACHAMP",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_CHOICE_BAND"
+    },
+    "SPECIES_BELLSPROUT": {
+        "species": "Bellsprout",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_WEEPINBELL": {
+        "species": "Weepinbell",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_VICTREEBEL": {
+        "species": "Victreebel",
+        "common": "ITEM_BIG_MUSHROOM",
+        "rare": "ITEM_SALAC_BERRY"
+    },
+    "SPECIES_TENTACOOL": {
+        "species": "TENTACOOL",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_BIG_PEARL"
+    },
+    "SPECIES_TENTACRUEL": {
+        "species": "Tentacruel",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_GEODUDE": {
+        "species": "GEODUDE",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_EVERSTONE"
+    },
+    "SPECIES_GRAVELER": {
+        "species": "Graveler",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_EVERSTONE"
+    },
+    "SPECIES_GOLEM": {
+        "species": "SPECIES_GOLEM",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_PONYTA": {
+        "species": "Ponyta",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_FLAME_ORB"
+    },
+    "SPECIES_RAPIDASH": {
+        "species": "RAPIDASH",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FIRE_STONE"
+    },
+    "SPECIES_SLOWPOKE": {
+        "species": "SPECIES_SLOWPOKE",
+        "common": "ITEM_LUM_BERRY",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_SLOWBRO": {
+        "species": "Slowbro",
+        "common": "ITEM_LEFTOVERS",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_MAGNEMITE": {
+        "species": "SPECIES_MAGNEMITE",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_MAGNET"
+    },
+    "SPECIES_MAGNETON": {
+        "species": "Magneton",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_MAGNET"
+    },
+    "SPECIES_FARFETCHD": {
+        "species": "Farfetch'd",
+        "common": "ITEM_STICK",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_DODUO": {
+        "species": "Doduo",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_DODRIO": {
+        "species": "Dodrio",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "SPECIES_SEEL": {
+        "species": "SPECIES_SEEL",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_NEVER_MELT_ICE"
+    },
+    "SPECIES_DEWGONG": {
+        "species": "DEWGONG",
+        "common": "ITEM_NEVER_MELT_ICE",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_GRIMER": {
+        "species": "Grimer",
+        "common": "ITEM_BLACK_SLUDGE",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_MUK": {
+        "species": "MUK",
+        "common": "ITEM_BLACK_SLUDGE",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_SHELLDER": {
+        "species": "SHELLDER",
+        "common": "ITEM_PEARL",
+        "rare": "ITEM_BIG_PEARL"
+    },
+    "SPECIES_CLOYSTER": {
+        "species": "Cloyster",
+        "common": "ITEM_SHELL_BELL",
+        "rare": "ITEM_NEVER_MELT_ICE"
+    },
+    "SPECIES_GASTLY": {
+        "species": "GASTLY",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_BLACK_GLASSES"
+    },
+    "SPECIES_HAUNTER": {
+        "species": "Haunter",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_GENGAR": {
+        "species": "Gengar",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_PETAYA_BERRY"
+    },
+    "SPECIES_ONIX": {
+        "species": "Onix",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_EVERSTONE"
+    },
+    "SPECIES_DROWZEE": {
+        "species": "Drowzee",
+        "common": "ITEM_CHESTO_BERRY",
+        "rare": "ITEM_TWISTED_SPOON"
+    },
+    "SPECIES_HYPNO": {
+        "species": "Hypno",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_MENTAL_HERB"
+    },
+    "SPECIES_KRABBY": {
+        "species": "Krabby",
+        "common": "ITEM_RAZZ_BERRY",
+        "rare": "ITEM_BIG_PEARL"
+    },
+    "SPECIES_KINGLER": {
+        "species": "SPECIES_KINGLER",
+        "common": "ITEM_NET_BALL",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_VOLTORB": {
+        "species": "Voltorb",
+        "common": "ITEM_CHERI_BERRY",
+        "rare": "ITEM_ELECTRIC_SEED"
+    },
+    "SPECIES_ELECTRODE": {
+        "species": "Electrode",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_LIGHT_BALL"
+    },
+    "SPECIES_EXEGGCUTE": {
+        "species": "EXEGGCUTE",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_EXEGGUTOR": {
+        "species": "Exeggutor",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_CUBONE": {
+        "species": "SPECIES_CUBONE",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_THICK_CLUB"
+    },
+    "SPECIES_MAROWAK": {
+        "species": "SPECIES_MAROWAK",
+        "common": "ITEM_THICK_CLUB",
+        "rare": "ITEM_BONE"
+    },
+    "SPECIES_HITMONLEE": {
+        "species": "SPECIES_HITMONLEE",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_MACHO_BRACE"
+    },
+    "SPECIES_HITMONCHAN": {
+        "species": "SPECIES_HITMONCHAN",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_FOCUS_BAND"
+    },
+    "SPECIES_LICKITUNG": {
+        "species": "Lickitung",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_KOFFING": {
+        "species": "KOFFING",
+        "common": "ITEM_SMOKE_BALL",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_WEEZING": {
+        "species": "WEEZING",
+        "common": "ITEM_SMOKE_BALL",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_RHYHORN": {
+        "species": "Rhyhorn",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_HARD_STONE"
+    },
+    "SPECIES_RHYDON": {
+        "species": "Rhydon",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_PROTEIN"
+    },
+    "SPECIES_CHANSEY": {
+        "species": "CHANSEY",
+        "common": "ITEM_LUCKY_EGG",
+        "rare": "ITEM_OVAL_STONE"
+    },
+    "SPECIES_TANGELA": {
+        "species": "TANGELA",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_BIG_ROOT"
+    },
+    "SPECIES_KANGASKHAN": {
+        "species": "Kangaskhan",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_ENIGMA_BERRY"
+    },
+    "SPECIES_HORSEA": {
+        "species": "Horsea",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_SEADRA": {
+        "species": "SEADRA",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_GOLDEEN": {
+        "species": "SPECIES_GOLDEEN",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_WATER_STONE"
+    },
+    "SPECIES_SEAKING": {
+        "species": "SPECIES_SEAKING",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_WAVE_MAIL"
+    },
+    "SPECIES_STARYU": {
+        "species": "SPECIES_STARYU",
+        "common": "ITEM_WATER_STONE",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_STARMIE": {
+        "species": "SPECIES_STARMIE",
+        "common": "ITEM_WATER_STONE",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_MR_MIME": {
+        "species": "Mr. Mime",
+        "common": "ITEM_CHESTO_BERRY",
+        "rare": "ITEM_LIGHT_BALL"
+    },
+    "SPECIES_SCYTHER": {
+        "species": "SCYTHER",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_JYNX": {
+        "species": "Jynx",
+        "common": "ITEM_ASPEAR_BERRY",
+        "rare": "ITEM_TM20"
+    },
+    "SPECIES_ELECTABUZZ": {
+        "species": "Electabuzz",
+        "common": "ITEM_MAGNET",
+        "rare": "ITEM_ELECTIRIZER"
+    },
+    "SPECIES_MAGMAR": {
+        "species": "MAGMAR",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_MAGMARIZER"
+    },
+    "SPECIES_PINSIR": {
+        "species": "SPECIES_PINSIR",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_SILVER_POWDER"
+    },
+    "SPECIES_TAUROS": {
+        "species": "Tauros",
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_MAGIKARP": {
+        "species": "SPECIES_MAGIKARP",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_NUGGET"
+    },
+    "SPECIES_GYARADOS": {
+        "species": "SPECIES_GYARADOS",
+        "common": "ITEM_WAVE_MAIL",
+        "rare": "ITEM_DRAGON_FANG"
+    },
+    "SPECIES_LAPRAS": {
+        "species": "Lapras",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_TM13"
+    },
+    "SPECIES_DITTO": {
+        "species": "Ditto",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_METAL_POWDER"
+    },
+    "SPECIES_EEVEE": {
+        "species": "SPECIES_EEVEE",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_EVERSTONE"
+    },
+    "SPECIES_VAPOREON": {
+        "species": "Vaporeon",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_JOLTEON": {
+        "species": "Jolteon",
+        "common": "ITEM_MAGNET",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "SPECIES_FLAREON": {
+        "species": "FLAREON",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FLAME_ORB"
+    },
+    "SPECIES_PORYGON": {
+        "species": "Porygon",
+        "common": "ITEM_UP_GRADE",
+        "rare": "ITEM_DUBIOUS_DISC"
+    },
+    "SPECIES_OMANYTE": {
+        "species": "SPECIES_OMANYTE",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_HEART_SCALE"
+    },
+    "SPECIES_OMASTAR": {
+        "species": "OMASTAR",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_RARE_CANDY"
+    },
+    "SPECIES_KABUTO": {
+        "species": "SPECIES_KABUTO",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_KABUTOPS": {
+        "species": "Kabutops",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_AERODACTYL": {
+        "species": "Aerodactyl",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_DRAGON_FANG"
+    },
+    "SPECIES_SNORLAX": {
+        "species": "Snorlax",
+        "common": "ITEM_LEFTOVERS",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_ARTICUNO": {
+        "species": "ARTICUNO",
+        "common": "ITEM_NEVER_MELT_ICE",
+        "rare": "ITEM_SNOWBALL"
+    },
+    "SPECIES_ZAPDOS": {
+        "species": "Zapdos",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_CHERI_BERRY"
+    },
+    "SPECIES_MOLTRES": {
+        "species": "MOLTRES",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_LIFE_ORB"
+    },
+    "SPECIES_DRATINI": {
+        "species": "Dratini",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_DRAGON_FANG"
+    },
+    "SPECIES_DRAGONAIR": {
+        "species": "Dragonair",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_DRAGON_FANG"
+    },
+    "SPECIES_DRAGONITE": {
+        "species": "Dragonite",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_MEWTWO": {
+        "species": "MEWTWO",
+        "common": "ITEM_BRIGHT_POWDER",
+        "rare": "ITEM_MENTAL_HERB"
+    },
+    "SPECIES_MEW": {
+        "species": "MEW",
+        "common": "ITEM_LUM_BERRY",
+        "rare": "ITEM_ENIGMA_BERRY"
+    },
+    "SPECIES_CHIKORITA": {
+        "species": "Chikorita",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_MIRACLE_SEED"
+    },
+    "SPECIES_BAYLEEF": {
+        "species": "SPECIES_BAYLEEF",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_MEGANIUM": {
+        "species": "SPECIES_MEGANIUM",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_CYNDAQUIL": {
+        "species": "SPECIES_CYNDAQUIL",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FIRE_STONE"
+    },
+    "SPECIES_QUILAVA": {
+        "species": "QUILAVA",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FIRE_STONE"
+    },
+    "SPECIES_TYPHLOSION": {
+        "species": "Typhlosion",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FLAME_ORB"
+    },
+    "SPECIES_TOTODILE": {
+        "species": "Totodile",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_CROCONAW": {
+        "species": "Croconaw",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_DRAGON_SCALE"
+    },
+    "SPECIES_FERALIGATR": {
+        "species": "FERALIGATR",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_DRAGON_SCALE"
+    },
+    "SPECIES_SENTRET": {
+        "species": "Sentret",
+        "common": "ITEM_PECHA_BERRY",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "SPECIES_FURRET": {
+        "species": "Furret",
+        "common": "ITEM_SILK_SCARF",
+        "rare": "ITEM_SCOPE_LENS"
+    },
+    "SPECIES_HOOTHOOT": {
+        "species": "Hoothoot",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_MIRACLE_SEED"
+    },
+    "SPECIES_NOCTOWL": {
+        "species": "Noctowl",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_MENTAL_HERB"
+    },
+    "SPECIES_LEDYBA": {
+        "species": "LEDYBA",
+        "common": "ITEM_SILVER_POWDER",
+        "rare": "ITEM_SHARP_BEAK"
+    },
+    "SPECIES_LEDIAN": {
+        "species": "LEDIAN",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_SPINARAK": {
+        "species": "Spinarak",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_SILK_SCARF"
+    },
+    "SPECIES_ARIADOS": {
+        "species": "SPECIES_ARIADOS",
+        "common": "ITEM_SILK_SCARF",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_CROBAT": {
+        "species": "CROBAT",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_SHARP_BEAK"
+    },
+    "SPECIES_CHINCHOU": {
+        "species": "CHINCHOU",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_DEEP_SEA_SCALE"
+    },
+    "SPECIES_LANTURN": {
+        "species": "Lanturn",
+        "common": "ITEM_DEEP_SEA_SCALE",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_PICHU": {
+        "species": "Pichu",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LIGHT_BALL"
+    },
+    "SPECIES_CLEFFA": {
+        "species": "Cleffa",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_MOON_STONE"
+    },
+    "SPECIES_IGGLYBUFF": {
+        "species": "IGGLYBUFF",
+        "common": "ITEM_SOOTHE_BELL",
+        "rare": "ITEM_MOON_STONE"
+    },
+    "SPECIES_TOGEPI": {
+        "species": "SPECIES_TOGEPI",
+        "common": "ITEM_SOOTHE_BELL",
+        "rare": "ITEM_LUCKY_EGG"
+    },
+    "SPECIES_TOGETIC": {
+        "species": "Togetic",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_NATU": {
+        "species": "SPECIES_NATU",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_TWISTED_SPOON"
+    },
+    "SPECIES_XATU": {
+        "species": "Xatu",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_TWISTED_SPOON"
+    },
+    "SPECIES_MAREEP": {
+        "species": "Mareep",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_AWAKENING"
+    },
+    "SPECIES_FLAAFFY": {
+        "species": "SPECIES_FLAAFFY",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_MAGNET"
+    },
+    "SPECIES_AMPHAROS": {
+        "species": "Ampharos",
+        "common": "ITEM_MAGNET",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_BELLOSSOM": {
+        "species": "Bellosom",
+        "common": "ITEM_BIG_MUSHROOM",
+        "rare": "ITEM_SUN_STONE"
+    },
+    "SPECIES_MARILL": {
+        "species": "Marill",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_AZUMARILL": {
+        "species": "Azumarill",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_SUDOWOODO": {
+        "species": "SPECIES_SUDOWOODO",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_POLITOED": {
+        "species": "SPECIES_POLITOED",
+        "common": "ITEM_KINGS_ROCK",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_HOPPIP": {
+        "species": "Hoppip",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_SKIPLOOM": {
+        "species": "SPECIES_SKIPLOOM",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_SUN_STONE"
+    },
+    "SPECIES_JUMPLUFF": {
+        "species": "Jumpluff",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_SUN_STONE"
+    },
+    "SPECIES_AIPOM": {
+        "species": "Aipom",
+        "common": "ITEM_PECHA_BERRY",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_SUNKERN": {
+        "species": "SPECIES_SUNKERN",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_SUN_STONE"
+    },
+    "SPECIES_SUNFLORA": {
+        "species": "Sunflora",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_MIRACLE_SEED"
+    },
+    "SPECIES_YANMA": {
+        "species": "SPECIES_YANMA",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_BIG_PEARL"
+    },
+    "SPECIES_WOOPER": {
+        "species": "WOOPER",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_HEART_SCALE"
+    },
+    "SPECIES_QUAGSIRE": {
+        "species": "QUAGSIRE",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_ESPEON": {
+        "species": "SPECIES_ESPEON",
+        "common": "ITEM_SOOTHE_BELL",
+        "rare": "ITEM_MIRACLE_SEED"
+    },
+    "SPECIES_UMBREON": {
+        "species": "Umbreon",
+        "common": "ITEM_MOON_STONE",
+        "rare": "ITEM_DARK_GLASSES"
+    },
+    "SPECIES_MURKROW": {
+        "species": "MURKROW",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_DUSK_STONE"
+    },
+    "SPECIES_SLOWKING": {
+        "species": "SLOWKING",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_MISDREAVUS": {
+        "species": "MISDREAVUS",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_SPELL_TAG"
+    },
+    "SPECIES_UNOWN": {
+        "species": "Unown",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_TWISTED_SPOON"
+    },
+    "SPECIES_WOBBUFFET": {
+        "species": "SPECIES_WOBBUFFET",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_LAX_INCENSE"
+    },
+    "SPECIES_GIRAFARIG": {
+        "species": "SPECIES_GIRAFARIG",
+        "common": "ITEM_PSYCHIC_SEED",
+        "rare": "ITEM_MENTAL_HERB"
+    },
+    "SPECIES_PINECO": {
+        "species": "Pineco",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_FORRETRESS": {
+        "species": "SPECIES_FORRETRESS",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_POKE_BALL"
+    },
+    "SPECIES_DUNSPARCE": {
+        "species": "DUNSPARCE",
+        "common": "ITEM_CHESTO_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_GLIGAR": {
+        "species": "GLIGAR",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_STEELIX": {
+        "species": "SPECIES_STEELIX",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_HARD_STONE"
+    },
+    "SPECIES_SNUBBULL": {
+        "species": "Snubbull",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_CHOICE_BAND"
+    },
+    "SPECIES_GRANBULL": {
+        "species": "Granbull",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_CHOICE_BAND"
+    },
+    "SPECIES_QWILFISH": {
+        "species": "QWILFISH",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_WATER_STONE"
+    },
+    "SPECIES_SCIZOR": {
+        "species": "SPECIES_SCIZOR",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_SILVER_POWDER"
+    },
+    "SPECIES_SHUCKLE": {
+        "species": "Shuckle",
+        "common": "ITEM_BERRY_JUICE",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_HERACROSS": {
+        "species": "Heracross",
+        "common": "ITEM_MACHO_BRACE",
+        "rare": "ITEM_CHOICE_BAND"
+    },
+    "SPECIES_SNEASEL": {
+        "species": "Sneasel",
+        "common": "ITEM_QUICK_CLAW",
+        "rare": "ITEM_RAZOR_CLAW"
+    },
+    "SPECIES_TEDDIURSA": {
+        "species": "Teddiursa",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_HONEY"
+    },
+    "SPECIES_URSARING": {
+        "species": "Ursaring",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_SLUGMA": {
+        "species": "Slugma",
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_HEAT_ROCK"
+    },
+    "SPECIES_MAGCARGO": {
+        "species": "Magcargo",
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_FIRE_STONE"
+    },
+    "SPECIES_SWINUB": {
+        "species": "SPECIES_SWINUB",
+        "common": "ITEM_NEVER_MELT_ICE",
+        "rare": "ITEM_HP_UP"
+    },
+    "SPECIES_PILOSWINE": {
+        "species": "SPECIES_PILOSWINE",
+        "common": "ITEM_NEVER_MELT_ICE",
+        "rare": "ITEM_BIG_PEARL"
+    },
+    "SPECIES_CORSOLA": {
+        "species": "SPECIES_CORSOLA",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_RED_SHARD"
+    },
+    "SPECIES_REMORAID": {
+        "species": "Remoraid",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_SCOPE_LENS"
+    },
+    "SPECIES_OCTILLERY": {
+        "species": "Octillery",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_RARE_CANDY"
+    },
+    "SPECIES_DELIBIRD": {
+        "species": "SPECIES_DELIBIRD",
+        "common": "ITEM_PRESENT",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_MANTINE": {
+        "species": "Mantine",
+        "common": "ITEM_WAVE_MAIL",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_SKARMORY": {
+        "species": "SPECIES_SKARMORY",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_SHARP_BEAK"
+    },
+    "SPECIES_HOUNDOUR": {
+        "species": "HOUNDOUR",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_CHARCOAL"
+    },
+    "SPECIES_HOUNDOOM": {
+        "species": "Houndoom",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_BLACK_GLASSES"
+    },
+    "SPECIES_KINGDRA": {
+        "species": "SPECIES_KINGDRA",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_PHANPY": {
+        "species": "SPECIES_PHANPY",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_RARE_CANDY"
+    },
+    "SPECIES_DONPHAN": {
+        "species": "Donphan",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_HARD_STONE"
+    },
+    "SPECIES_PORYGON2": {
+        "species": "Porygon2",
+        "common": "ITEM_UP_GRADE",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_STANTLER": {
+        "species": "Stantler",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_SMEARGLE": {
+        "species": "SPECIES_SMEARGLE",
+        "common": "ITEM_GREEN_SHARD",
+        "rare": "ITEM_LEPPA_BERRY"
+    },
+    "SPECIES_TYROGUE": {
+        "species": "Tyrogue",
+        "common": "ITEM_ACHO_BRACE",
+        "rare": "ITEM_BLACK_BELT"
+    },
+    "SPECIES_HITMONTOP": {
+        "species": "SPECIES_HITMONTOP",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_SMOOCHUM": {
+        "species": "Smoochum",
+        "common": "ITEM_ASPEAR_BERRY",
+        "rare": "ITEM_ICE_HEAL"
+    },
+    "SPECIES_ELEKID": {
+        "species": "ELEKID",
+        "common": "ITEM_ELECTRIC_SEED",
+        "rare": "ITEM_CHOICE_BAND"
+    },
+    "SPECIES_MAGBY": {
+        "species": "SPECIES_MAGBY",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_MAGMARIZER"
+    },
+    "SPECIES_MILTANK": {
+        "species": "Miltank",
+        "common": "ITEM_MOOMOO_MILK",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_BLISSEY": {
+        "species": "Blissey",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_RAIKOU": {
+        "species": "Raikou",
+        "common": "ITEM_MAGNET",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_ENTEI": {
+        "species": "Entei",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FIRE_STONE"
+    },
+    "SPECIES_SUICUNE": {
+        "species": "SPECIES_SUICUNE",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_LARVITAR": {
+        "species": "Larvitar",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_PUPITAR": {
+        "species": "Pupitar",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_TYRANITAR": {
+        "species": "Tyranitar",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_LUGIA": {
+        "species": "SPECIES_LUGIA",
+        "common": "ITEM_SHELL_BELL",
+        "rare": "ITEM_SOUL_DEW"
+    },
+    "SPECIES_HO_OH": {
+        "species": "HO_OH",
+        "common": "ITEM_SACRED_ASH",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_CELEBI": {
+        "species": "Celebi",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_OLD_UNOWN_B": {
+        "species": "Old Unown B",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_SCOPE_LENS"
+    },
+    "SPECIES_GROVYLE": {
+        "species": "SPECIES_GROVYLE",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_LEAF_STONE"
+    },
+    "SPECIES_SCEPTILE": {
+        "species": "SPECIES_SCEPTILE",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_DRAGON_SCALE"
+    },
+    "SPECIES_TORCHIC": {
+        "species": "SPECIES_TORCHIC",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_CHARCOAL"
+    },
+    "SPECIES_COMBUSKEN": {
+        "species": "Combusken",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FIRE_STONE"
+    },
+    "SPECIES_BLAZIKEN": {
+        "species": "Blaziken",
+        "common": "ITEM_CHARCOAL",
+        "rare": "ITEM_FLAME_PLATE"
+    },
+    "SPECIES_MUDKIP": {
+        "species": "Mudkip",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_MARSHTOMP": {
+        "species": "SPECIES_MARSHTOMP",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_SWAMPERT": {
+        "species": "Swampert",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_POOCHYENA": {
+        "species": "Poochyena",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_BLACK_GLASSES"
+    },
+    "SPECIES_MIGHTYENA": {
+        "species": "SPECIES_MIGHTYENA",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_BLACK_GLASSES"
+    },
+    "SPECIES_ZIGZAGOON": {
+        "species": "Zigzagoon",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_PP_UP"
+    },
+    "SPECIES_LINOONE": {
+        "species": "LINOONE",
+        "common": "ITEM_PECHA_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_WURMPLE": {
+        "species": "Wurmple",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_TINY_MUSHROOM"
+    },
+    "SPECIES_SILCOON": {
+        "species": "Silcoon",
+        "common": "ITEM_BERRY_JUICE",
+        "rare": "ITEM_SOOTHE_BELL"
+    },
+    "SPECIES_BEAUTIFLY": {
+        "species": "SPECIES_BEAUTIFLY",
+        "common": "ITEM_SILVER_POWDER",
+        "rare": "ITEM_SHARP_BEAK"
+    },
+    "SPECIES_CASCOON": {
+        "species": "Cascoon",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_POKE_BALL"
+    },
+    "SPECIES_DUSTOX": {
+        "species": "SPECIES_DUSTOX",
+        "common": "ITEM_SILVER_POWDER",
+        "rare": "ITEM_TINY_MUSHROOM"
+    },
+    "SPECIES_LOTAD": {
+        "species": "Lotad",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_TINY_MUSHROOM"
+    },
+    "SPECIES_LOMBRE": {
+        "species": "LOMBRE",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_LUDICOLO": {
+        "species": "SPECIES_LUDICOLO",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_SEEDOT": {
+        "species": "SPECIES_SEEDOT",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_TINY_MUSHROOM"
+    },
+    "SPECIES_NUZLEAF": {
+        "species": "SPECIES_NUZLEAF",
+        "common": "ITEM_LEAF_STONE",
+        "rare": "ITEM_TINY_MUSHROOM"
+    },
+    "SPECIES_SHIFTRY": {
+        "species": "SPECIES_SHIFTRY",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_LEAF_STONE"
+    },
+    "SPECIES_NINCADA": {
+        "species": "Nincada",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_PECHA_BERRY"
+    },
+    "SPECIES_NINJASK": {
+        "species": "SPECIES_NINJASK",
+        "common": "ITEM_SILK_SCARF",
+        "rare": "ITEM_STARF_BERRY"
+    },
+    "SPECIES_SHEDINJA": {
+        "species": "Shedinja",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_SPELL_TAG"
+    },
+    "SPECIES_TAILLOW": {
+        "species": "Taillow",
+        "common": "ITEM_PECHA_BERRY",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_SWELLOW": {
+        "species": "SPECIES_SWELLOW",
+        "common": "ITEM_SHARP_BEAK",
+        "rare": "ITEM_CHESTO_BERRY"
+    },
+    "SPECIES_SHROOMISH": {
+        "species": "Shroomish",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_BIG_MUSHROOM"
+    },
+    "SPECIES_BRELOOM": {
+        "species": "Breloom",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_TM52"
+    },
+    "SPECIES_SPINDA": {
+        "species": "SPECIES_SPINDA",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LAX_INCENSE"
+    },
+    "SPECIES_WINGULL": {
+        "species": "SPECIES_WINGULL",
+        "common": "ITEM_WAVE_MAIL",
+        "rare": "ITEM_PREMIER_BALL"
+    },
+    "SPECIES_PELIPPER": {
+        "species": "Pelipper",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_POKE_BALL"
+    },
+    "SPECIES_SURSKIT": {
+        "species": "Surskit",
+        "common": "ITEM_CHERI_BERRY",
+        "rare": "ITEM_ORAN_BERRY"
+    },
+    "SPECIES_MASQUERAIN": {
+        "species": "Masquerain",
+        "common": "ITEM_SILVER_POWDER",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_WAILMER": {
+        "species": "Wailmer",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_PEARL"
+    },
+    "SPECIES_WAILORD": {
+        "species": "Wailord",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_WAVE_MAIL"
+    },
+    "SPECIES_SKITTY": {
+        "species": "Skitty",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_DELCATTY": {
+        "species": "Delcatty",
+        "common": "ITEM_LUXURY_BALL",
+        "rare": "ITEM_MOON_STONE"
+    },
+    "SPECIES_KECLEON": {
+        "species": "Kecleon",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_BALTOY": {
+        "species": "Baltoy",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_CLAYDOL": {
+        "species": "SPECIES_CLAYDOL",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_STARDUST"
+    },
+    "SPECIES_NOSEPASS": {
+        "species": "NOSEPASS",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_MAGNET"
+    },
+    "SPECIES_TORKOAL": {
+        "species": "Torkoal",
+        "common": "ITEM_FIERY_MUSHROOM",
+        "rare": "ITEM_CHARCOAL"
+    },
+    "SPECIES_SABLEYE": {
+        "species": "Sableye",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_BARBOACH": {
+        "species": "Barboach",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_WHISCASH": {
+        "species": "Whiscash",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_SOFT_SAND"
+    },
+    "SPECIES_LUVDISC": {
+        "species": "Luvdisc",
+        "common": "ITEM_HEART_SCALE",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_CORPHISH": {
+        "species": "SPECIES_CORPHISH",
+        "common": "ITEM_PEARL",
+        "rare": "ITEM_BIG_PEARL"
+    },
+    "SPECIES_CRAWDAUNT": {
+        "species": "Crawdaunt",
+        "common": "ITEM_BIG_PEARL",
+        "rare": "ITEM_MYSTIC_WATER"
+    },
+    "SPECIES_FEEBAS": {
+        "species": "SPECIES_FEEBAS",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_PRISM_SCALE"
+    },
+    "SPECIES_MILOTIC": {
+        "species": "Milotic",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_PRISM_SCALE"
+    },
+    "SPECIES_CARVANHA": {
+        "species": "SPECIES_CARVANHA",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_DEEP_SEA_TOOTH"
+    },
+    "SPECIES_SHARPEDO": {
+        "species": "Sharpedo",
+        "common": "ITEM_DEEP_SEA_TOOTH",
+        "rare": "ITEM_DEEP_SEA_SCALE"
+    },
+    "SPECIES_TRAPINCH": {
+        "species": "Trapinch",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_SOOTHE_BELL"
+    },
+    "SPECIES_VIBRAVA": {
+        "species": "Vibrava",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_SOFT_SAND"
+    },
+    "SPECIES_FLYGON": {
+        "species": "SPECIES_FLYGON",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_DRAGON_FANG"
+    },
+    "SPECIES_MAKUHITA": {
+        "species": "SPECIES_MAKUHITA",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_KINGS_ROCK"
+    },
+    "SPECIES_HARIYAMA": {
+        "species": "Hariyama",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_FULL_RESTORE"
+    },
+    "SPECIES_ELECTRIKE": {
+        "species": "ELECTRIKE",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_THUNDER_STONE"
+    },
+    "SPECIES_MANECTRIC": {
+        "species": "Manectric",
+        "common": "ITEM_MAGNET",
+        "rare": "ITEM_CELL_BATTERY"
+    },
+    "SPECIES_NUMEL": {
+        "species": "Numel",
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_CHARCOAL"
+    },
+    "SPECIES_CAMERUPT": {
+        "species": "Camerupt",
+        "common": "ITEM_RAWST_BERRY",
+        "rare": "ITEM_CHARCOAL"
+    },
+    "SPECIES_SPHEAL": {
+        "species": "SPECIES_SPHEAL",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_SEALEO": {
+        "species": "Sealeo",
+        "common": "ITEM_ASPEAR_BERRY",
+        "rare": "ITEM_NEVER_MELT_ICE"
+    },
+    "SPECIES_WALREIN": {
+        "species": "SPECIES_WALREIN",
+        "common": "ITEM_NEVER_MELT_ICE",
+        "rare": "ITEM_SITRUS_BERRY"
+    },
+    "SPECIES_CACNEA": {
+        "species": "SPECIES_CACNEA",
+        "common": "ITEM_LUM_BERRY",
+        "rare": "ITEM_STARDUST"
+    },
+    "SPECIES_CACTURNE": {
+        "species": "CACTURNE",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_BRIGHT_POWDER"
+    },
+    "SPECIES_SNORUNT": {
+        "species": "SNORUNT",
+        "common": "ITEM_ASPEAR_BERRY",
+        "rare": "ITEM_NEVER_MELT_ICE"
+    },
+    "SPECIES_GLALIE": {
+        "species": "SPECIES_GLALIE",
+        "common": "ITEM_NEVER_MELT_ICE",
+        "rare": "ITEM_AVALANCHE_TM"
+    },
+    "SPECIES_LUNATONE": {
+        "species": "SPECIES_LUNATONE",
+        "common": "ITEM_MOON_STONE",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_SOLROCK": {
+        "species": "SOLROCK",
+        "common": "ITEM_SUN_STONE",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_AZURILL": {
+        "species": "AZURILL",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_SITRUS_BERRY"
+    },
+    "SPECIES_SPOINK": {
+        "species": "SPECIES_SPOINK",
+        "common": "ITEM_BOUNCE_BALL",
+        "rare": "ITEM_PEARL"
+    },
+    "SPECIES_GRUMPIG": {
+        "species": "Grumpig",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_PSYCHIC_SEED"
+    },
+    "SPECIES_PLUSLE": {
+        "species": "Plusle",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LIGHT_BALL"
+    },
+    "SPECIES_MINUN": {
+        "species": "MINUN",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LIGHT_BALL"
+    },
+    "SPECIES_MAWILE": {
+        "species": "Mawile",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_STICK"
+    },
+    "SPECIES_MEDITITE": {
+        "species": "SPECIES_MEDITITE",
+        "common": "ITEM_MIRACLE_SEED",
+        "rare": "ITEM_TWISTED_SPOON"
+    },
+    "SPECIES_MEDICHAM": {
+        "species": "SPECIES_MEDICHAM",
+        "common": "ITEM_BLACK_BELT",
+        "rare": "ITEM_STICK"
+    },
+    "SPECIES_SWABLU": {
+        "species": "Swablu",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_SHARP_BEAK"
+    },
+    "SPECIES_ALTARIA": {
+        "species": "Altaria",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_WYNAUT": {
+        "species": "Wynaut",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_DUSKULL": {
+        "species": "SPECIES_DUSKULL",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_DUSCLOPS": {
+        "species": "SPECIES_DUSCLOPS",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_REAPER_CLOTH"
+    },
+    "SPECIES_ROSELIA": {
+        "species": "Roselia",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_BIG_ROOT"
+    },
+    "SPECIES_SLAKOTH": {
+        "species": "SPECIES_SLAKOTH",
+        "common": "ITEM_ORAN_BERRY",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_VIGOROTH": {
+        "species": "VIGOROTH",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_SLAKING": {
+        "species": "SLAKING",
+        "common": "ITEM_SILK_SCARF",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_GULPIN": {
+        "species": "SPECIES_GULPIN",
+        "common": "ITEM_BLACK_SLUDGE",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_SWALOT": {
+        "species": "Swalot",
+        "common": "ITEM_BLACK_SLUDGE",
+        "rare": "ITEM_POISON_BARB"
+    },
+    "SPECIES_TROPIUS": {
+        "species": "TROPIUS",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_BRIGHT_POWDER"
+    },
+    "SPECIES_WHISMUR": {
+        "species": "SPECIES_WHISMUR",
+        "common": "ITEM_TINY_MUSHROOM",
+        "rare": "ITEM_SILK_SCARF"
+    },
+    "SPECIES_LOUDRED": {
+        "species": "Species_Loudred",
+        "common": "ITEM_SILK_SCARF",
+        "rare": "ITEM_SITRUS_BERRY"
+    },
+    "SPECIES_EXPLOUD": {
+        "species": "SPECIES_EXPLOUD",
+        "common": "ITEM_LOUD_SPEAKER",
+        "rare": "ITEM_HYPER_VOICE_MEGAPHONE"
+    },
+    "SPECIES_CLAMPERL": {
+        "species": "Clamperl",
+        "common": "ITEM_PEARL",
+        "rare": "ITEM_DEEP_SEA_SCALE"
+    },
+    "SPECIES_HUNTAIL": {
+        "species": "Huntail",
+        "common": "ITEM_DEEP_SEA_TOOTH",
+        "rare": "ITEM_DEEP_SEA_SCALE"
+    },
+    "SPECIES_GOREBYSS": {
+        "species": "Gorebyss",
+        "common": "ITEM_DEEP_SEA_SCALE",
+        "rare": "ITEM_HEART_SCALE"
+    },
+    "SPECIES_ABSOL": {
+        "species": "Absol",
+        "common": "ITEM_QUICK_CLAW",
+        "rare": "ITEM_SCOPE_LENS"
+    },
+    "SPECIES_SHUPPET": {
+        "species": "SPECIES_SHUPPET",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_CLEANSE_TAG"
+    },
+    "SPECIES_BANETTE": {
+        "species": "SPECIES_BANETTE",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_SHADOW_MAIL"
+    },
+    "SPECIES_SEVIPER": {
+        "species": "SEVIPER",
+        "common": "ITEM_POISON_BARB",
+        "rare": "ITEM_BLACK_GLASSES"
+    },
+    "SPECIES_ZANGOOSE": {
+        "species": "Zangoose",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_QUICK_CLAW"
+    },
+    "SPECIES_RELICANTH": {
+        "species": "Relicanth",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_DEEP_SEA_SCALE"
+    },
+    "SPECIES_ARON": {
+        "species": "SPECIES_ARON",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_LAIRON": {
+        "species": "Lairon",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_AGGRON": {
+        "species": "Aggron",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_CASTFORM": {
+        "species": "CASTFORM",
+        "common": "ITEM_WEATHER_ROCK",
+        "rare": "ITEM_CASTFORM_FORM"
+    },
+    "SPECIES_VOLBEAT": {
+        "species": "Volbeat",
+        "common": "ITEM_SILVER_POWDER",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_ILLUMISE": {
+        "species": "SPECIES_ILLUMISE",
+        "common": "ITEM_LUM_BERRY",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_LILEEP": {
+        "species": "Lileep",
+        "common": "ITEM_BIG_ROOT",
+        "rare": "ITEM_MIRACLE_SEED"
+    },
+    "SPECIES_CRADILY": {
+        "species": "Cradily",
+        "common": "ITEM_BERRY_JUICE",
+        "rare": "ITEM_BIG_PEARL"
+    },
+    "SPECIES_ANORITH": {
+        "species": "SPECIES_ANORITH",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_STAR_PIECE"
+    },
+    "SPECIES_ARMALDO": {
+        "species": "SPECIES_ARMALDO",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_STARDUST"
+    },
+    "SPECIES_RALTS": {
+        "species": "SPECIES_RALTS",
+        "common": "ITEM_SITRUS_BERRY",
+        "rare": "ITEM_TWISTED_SPOON"
+    },
+    "SPECIES_KIRLIA": {
+        "species": "Kirlia",
+        "common": "ITEM_TWISTED_SPOON",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_GARDEVOIR": {
+        "species": "Gardevoir",
+        "common": "ITEM_SPELL_TAG",
+        "rare": "ITEM_TWISTED_SPOON"
+    },
+    "SPECIES_BAGON": {
+        "species": "SPECIES_BAGON",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_SHELGON": {
+        "species": "SPECIES_SHELGON",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_DRAGON_SCALE"
+    },
+    "SPECIES_SALAMENCE": {
+        "species": "Salamence",
+        "common": "ITEM_DRAGON_FANG",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_BELDUM": {
+        "species": "Beldum",
+        "common": "ITEM_NONE",
+        "rare": "ITEM_METAL_COAT"
+    },
+    "SPECIES_METANG": {
+        "species": "SPECIES_METANG",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_METAGROSS": {
+        "species": "METAGROSS",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_NONE"
+    },
+    "SPECIES_REGIROCK": {
+        "species": "SPECIES_REGIROCK",
+        "common": "ITEM_HARD_STONE",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_REGICE": {
+        "species": "Regice",
+        "common": "ITEM_NEVER_MELT_ICE",
+        "rare": "ITEM_ICE_HEAL"
+    },
+    "SPECIES_REGISTEEL": {
+        "species": "REGISTEEL",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_LEFTOVERS"
+    },
+    "SPECIES_KYOGRE": {
+        "species": "SPECIES_KYOGRE",
+        "common": "ITEM_MYSTIC_WATER",
+        "rare": "ITEM_BLUE_SHARD"
+    },
+    "SPECIES_GROUDON": {
+        "species": "GROUDON",
+        "common": "ITEM_SOFT_SAND",
+        "rare": "ITEM_HARD_STONE"
+    },
+    "SPECIES_RAYQUAZA": {
+        "species": "SPECIES_RAYQUAZA",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_CHOICE_BAND"
+    },
+    "SPECIES_LATIAS": {
+        "species": "SPECIES_LATIAS",
+        "common": "ITEM_DRAGON_SCALE",
+        "rare": "ITEM_SOUL_DEW"
+    },
+    "SPECIES_LATIOS": {
+        "species": "Latios",
+        "common": "ITEM_SOUL_DEW",
+        "rare": "ITEM_DRAGON_SCALE"
+    },
+    "SPECIES_JIRACHI": {
+        "species": "JIRACHI",
+        "common": "ITEM_STAR_PIECE",
+        "rare": "ITEM_ENIGMA_BERRY"
+    },
+    "SPECIES_DEOXYS": {
+        "species": "Deoxys",
+        "common": "ITEM_METAL_COAT",
+        "rare": "ITEM_LUM_BERRY"
+    },
+    "SPECIES_CHIMECHO": {
+        "species": "SPECIES_CHIMECHO",
+        "common": "ITEM_SOOTHE_BELL",
+        "rare": "ITEM_MENTAL_HERB"
+    }
+}
