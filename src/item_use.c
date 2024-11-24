@@ -38,6 +38,7 @@
 #include "constants/moves.h"
 #include "constants/songs.h"
 #include "constants/field_weather.h"
+#include "data.h"
 
 static EWRAM_DATA void (*sItemUseOnFieldCB)(u8 taskId) = NULL;
 
@@ -355,7 +356,10 @@ void FieldUseFunc_PowderJar(u8 taskId)
     else
         DisplayItemMessageOnField(taskId, FONT_NORMAL, gStringVar4, Task_ItemUse_CloseMessageBoxAndReturnToField);
 }
-
+void FieldUseFunc_IVChecker(u8 taskId)
+{
+    DisplayItemMessageInBag(taskId, FONT_NORMAL, gText_IVResults, Task_ReturnToBagFromContextMenu);
+}
 void FieldUseFunc_PokeFlute(u8 taskId)
 {
     bool8 wokeSomeoneUp = FALSE;
@@ -750,6 +754,50 @@ void BattleUseFunc_PokeFlute(u8 taskId)
 {
     Bag_BeginCloseWin0Animation();
     ItemMenu_StartFadeToExitCallback(taskId);
+}
+void BattleUseFunc_IVChecker(u8 taskId)
+{
+    u16 speciesID = GetTargetSpecies();
+    u32 ivSum = GetTargetIVSum();
+    u8 highestIV;
+
+
+    // if IV sum is 186, gStringVar2 is "A+"
+    // if IV sum is 0, gStringVar2 is "F"
+    // otherwise, gStringVar2 is the IV sum
+
+    StringCopy(gStringVar2, gSpeciesNames[speciesID]);
+
+    if (ivSum == 186)
+        DisplayItemMessageInBag(taskId, FONT_NORMAL, gText_IVResults_Perfect, Task_ReturnToBagFromContextMenu);
+    else if (ivSum == 0)
+        DisplayItemMessageInBag(taskId, FONT_NORMAL, gText_IVResults_Lousy, Task_ReturnToBagFromContextMenu);
+    else
+        ConvertIntToDecimalStringN(gStringVar1, ivSum, STR_CONV_MODE_LEFT_ALIGN, 3);
+        highestIV = GetHighestIV();
+        switch (highestIV)
+        {
+            case 0:
+                StringCopy(gStringVar3, gText_IV_HighestHP);
+                break;
+            case 1:
+                StringCopy(gStringVar3, gText_IV_HighestAttack);
+                break;
+            case 2:
+                StringCopy(gStringVar3, gText_IV_HighestDefense);
+                break;
+            case 3:
+                StringCopy(gStringVar3, gText_IV_HighestSpeed);
+                break;
+            case 4:
+                StringCopy(gStringVar3, gText_IV_HighestSpAttack);
+                break;
+            case 5:
+                StringCopy(gStringVar3, gText_IV_HighestSpDefense);
+                break;
+
+        }
+        DisplayItemMessageInBag(taskId, FONT_NORMAL, gText_IVResults, Task_ReturnToBagFromContextMenu);
 }
 
 void BattleUseFunc_StatBooster(u8 taskId)

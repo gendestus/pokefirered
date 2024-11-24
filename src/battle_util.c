@@ -1607,7 +1607,38 @@ enum
     CASTFORM_TO_WATER,
     CASTFORM_TO_ICE,
 };
-
+u16 GetTargetSpecies(void)
+{
+    u16 species = gBattleMons[1].species;
+    return species;
+}
+u32 GetTargetIVSum(void)
+{
+    u32 ivSum = GetMonData(&gEnemyParty[gBattlerPartyIndexes[1]], MON_DATA_HP_IV)
+              + GetMonData(&gEnemyParty[gBattlerPartyIndexes[1]], MON_DATA_ATK_IV)
+              + GetMonData(&gEnemyParty[gBattlerPartyIndexes[1]], MON_DATA_DEF_IV)
+              + GetMonData(&gEnemyParty[gBattlerPartyIndexes[1]], MON_DATA_SPEED_IV)
+              + GetMonData(&gEnemyParty[gBattlerPartyIndexes[1]], MON_DATA_SPATK_IV)
+              + GetMonData(&gEnemyParty[gBattlerPartyIndexes[1]], MON_DATA_SPDEF_IV);
+    return ivSum;
+}
+u8 GetHighestIV(void)
+{
+    u8 highestIv = 0;
+    u8 i;
+    u8 iv;
+    u8 highestIvValue = 0;
+    for (i = 0; i < 6; i++)
+    {
+        iv = GetMonData(&gEnemyParty[gBattlerPartyIndexes[1]], MON_DATA_HP_IV + i);
+        if (iv > highestIvValue)
+        {
+            highestIvValue = iv;
+            highestIv = i;
+        }
+    }
+    return highestIv;
+}
 u8 CastformDataTypeChange(u8 battler)
 {
     u8 formChange = 0;

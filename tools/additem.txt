@@ -1,0 +1,5 @@
+Add a  new item:
+items.json - add entry TO THE END
+include/constants/items.h - add entry with matching index
+item_use.h & item_use.c - define functionality
+item_icon_table.h - add entry

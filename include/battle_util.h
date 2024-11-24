@@ -58,6 +58,7 @@
 #define BS_GET_PLAYER2                  13
 #define BS_GET_OPPONENT2                14
 
+
 u8 GetBattlerForBattleScript(u8 caseId);
 void PressurePPLose(u8 target, u8 attacker, u16 move);
 void PressurePPLoseOnUsingImprison(u8 attacker);
@@ -85,6 +86,9 @@ void TryClearRageStatuses(void);
 u8 AtkCanceller_UnableToUseMove(void);
 bool8 HasNoMonsToSwitch(u8 battler, u8 partyIdBattlerOn1, u8 partyIdBattlerOn2);
 u8 CastformDataTypeChange(u8 battler);
+u16 GetTargetSpecies(void);
+u32 GetTargetIVSum(void);
+u8 GetHighestIV(void);
 u8 AbilityBattleEffects(u8 caseID, u8 battler, u8 ability, u8 special, u16 moveArg);
 void BattleScriptExecute(const u8 *BS_ptr);
 void BattleScriptPushCursorAndCallback(const u8 *BS_ptr);
