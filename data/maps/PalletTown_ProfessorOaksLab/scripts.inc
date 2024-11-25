@@ -57,7 +57,6 @@ PalletTown_ProfessorOaksLab_EventScript_ReadyPlayerForStarterScene::
 
 PalletTown_ProfessorOaksLab_OnFrame::
 	map_script_2 VAR_MAP_SCENE_PALLET_TOWN_PROFESSOR_OAKS_LAB, 1, PalletTown_ProfessorOaksLab_ChooseStarterScene
-	map_script_2 VAR_MAP_SCENE_PALLET_TOWN_PROFESSOR_OAKS_LAB, 7, PalletTown_ProfessorOaksLab_EventScript_EnterForNationalDexScene
 	.2byte 0
 
 PalletTown_ProfessorOaksLab_EventScript_EnterForNationalDexScene:: @ 8169002 
@@ -1249,7 +1248,6 @@ PalletTown_ProfessorOaksLab_EventScript_CharmanderBall::
 
 PalletTown_ProfessorOaksLab_EventScript_LastPokeBall::
 	msgbox PalletTown_ProfessorOaksLab_Text_OaksLastMon
-	call_if_eq VAR_NATIONAL_DEX_GIVEN, 0, PalletTown_ProfessorOaksLab_Give_National_Dex
 	release
 	end
 
