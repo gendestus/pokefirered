@@ -14,7 +14,7 @@ Features
 - [TODO] Coins from Rocket Members because I hate the gambling game
 - XP from catches
 - IV Check during battle
-- [TODO] Every poke has a held item
+- Every poke has a held item
 - Run & Bike everywhere
 - Increased shiny odds to 10%
 
