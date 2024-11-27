@@ -17,6 +17,7 @@ Features
 - Every poke has a held item
 - Run & Bike everywhere
 - Increased shiny odds to 10%
+- Aides count National Dex numbers
 
 ## Below is the original README
 
