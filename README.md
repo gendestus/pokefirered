@@ -11,13 +11,16 @@ Features
 - Talking to Oak's last pokeball unlocks national dex
 - $500 Magikarp replaced with Feebas
 - Redone Trainer lineups to make them more engaging
-- [TODO] Coins from Rocket Members because I hate the gambling game
 - XP from catches
 - IV Check during battle
 - Every poke has a held item
 - Run & Bike everywhere
 - Increased shiny odds to 10%
 - Aides count National Dex numbers
+- No more darkness in Rock Tunnel
+- No more Cut trees
+- [TODO] Infinite rematch with increasing levels
+- [TODO] Coins from Rocket Members because I hate the gambling game
 
 ## Below is the original README
 
