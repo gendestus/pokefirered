@@ -57,6 +57,12 @@ static void InitPlayerTrainerId(void)
     SetTrainerId(trainerId, gSaveBlock2Ptr->playerTrainerId);
 }
 
+void ZInit(void)
+{
+    EnableNationalPokedex();
+    EnableNationalPokedex_RSE();
+}
+
 static void SetDefaultOptions(void)
 {
     gSaveBlock2Ptr->optionsTextSpeed = OPTIONS_TEXT_SPEED_MID;
@@ -130,8 +136,7 @@ void NewGameInitData(void)
     ClearPlayerLinkBattleRecords();
     InitHeracrossSizeRecord();
     InitMagikarpSizeRecord();
-    EnableNationalPokedex();
-    EnableNationalPokedex_RSE();
+    ZInit();
     gPlayerPartyCount = 0;
     ZeroPlayerPartyMons();
     ResetPokemonStorageSystem();
@@ -159,3 +164,5 @@ static void ResetMiniGamesResults(void)
     ResetPokemonJumpRecords();
     CpuFill16(0, &gSaveBlock2Ptr->berryPick, sizeof(struct BerryPickingResults));
 }
+
+

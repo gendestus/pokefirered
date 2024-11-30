@@ -40,6 +40,13 @@ ViridianForest_EventScript_ExitSign::
 
 ViridianForest_EventScript_Rick::
 	trainerbattle_single TRAINER_BUG_CATCHER_RICK, ViridianForest_Text_RickIntro, ViridianForest_Text_RickDefeat
+	specialvar VAR_RESULT, ShouldTryRematchBattle
+	goto_if_eq VAR_RESULT, TRUE, ViridianForest_EventScript_RickRematch
+	msgbox ViridianForest_Text_RickPostBattle, MSGBOX_AUTOCLOSE
+	end
+
+ViridianForest_EventScript_RickRematch::
+	trainerbattle_rematch TRAINER_BUG_CATCHER_RICK2, ViridianForest_Text_RickIntro, ViridianForest_Text_RickDefeat
 	msgbox ViridianForest_Text_RickPostBattle, MSGBOX_AUTOCLOSE
 	end
 

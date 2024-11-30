@@ -118,6 +118,7 @@ static bool8 ObjectEventIdIsSane(u8 objectEventId);
 static u8 GetRandomFaceDirectionMovementType();
 
 static const struct RematchData sRematches[] = {
+   { {TRAINER_BUG_CATCHER_RICK, TRAINER_BUG_CATCHER_RICK2}, MAP(VIRIDIAN_FOREST)},
    { {TRAINER_YOUNGSTER_BEN, TRAINER_YOUNGSTER_BEN_2, SKIP, TRAINER_YOUNGSTER_BEN_3, TRAINER_YOUNGSTER_BEN_4}, MAP(ROUTE3) },
    { {TRAINER_YOUNGSTER_CALVIN, TRAINER_YOUNGSTER_CALVIN}, MAP(ROUTE3) },
    { {TRAINER_BUG_CATCHER_COLTON, TRAINER_BUG_CATCHER_COLTON_2, SKIP, TRAINER_BUG_CATCHER_COLTON_3, SKIP, TRAINER_BUG_CATCHER_COLTON_4},
@@ -850,7 +851,8 @@ static void Task_VsSeeker_3(u8 taskId)
 static u8 CanUseVsSeeker(void)
 {
     u8 vsSeekerChargeSteps = gSaveBlock1Ptr->trainerRematchStepCounter;
-    if (vsSeekerChargeSteps == 100)
+    //if (vsSeekerChargeSteps == 100)
+    if (vsSeekerChargeSteps > 1)
     {
         if (GetRematchableTrainerLocalId() == 0xFF)
             return VSSEEKER_NO_ONE_IN_RANGE;
